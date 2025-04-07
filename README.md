@@ -5,7 +5,7 @@
 -->
 
 **Distinction Portfolio at the University of Denver - Daniels Business College:
-Major: Business Information and Analytics
-Minor: Computer Science**
+<br>Major: Business Information and Analytics
+<br>Minor: Computer Science**
 
 
