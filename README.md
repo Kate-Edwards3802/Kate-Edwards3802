@@ -8,4 +8,19 @@
 <br>Major: Business Information and Analytics
 <br>Minor: Computer Science**
 
+**Who am I? Resume, Linkedin, Email**
+
+**Communication and interpersonal effectiveness**
+
+**Community Engagement and Leadership**
+
+**Critical Thinking**
+
+**Ethical Decision Making**
+
+**Global/Intercultural Competence**
+
+**Technical Knowledge**
+
+
 
