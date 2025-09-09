@@ -9,7 +9,8 @@
 <br>Minor: Computer Science**
 
 ## Resume, Linkedin, Email
-https://www.linkedin.com/in/kate-edwards-du/, katieedwards2828@gmail.com
+https://www.linkedin.com/in/kate-edwards-du/
+katieedwards2828@gmail.com
 
 ## Communication and interpersonal effectiveness
 **Case Competitions**
