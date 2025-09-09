@@ -8,7 +8,8 @@
 <br>Major: Business Information and Analytics
 <br>Minor: Computer Science**
 
-## Who am I? Resume, Linkedin, Email
+## Resume, Linkedin, Email
+https://www.linkedin.com/in/kate-edwards-du/, katieedwards2828@gmail.com
 
 ## Communication and interpersonal effectiveness
 **Case Competitions**
