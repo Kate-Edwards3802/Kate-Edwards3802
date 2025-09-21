@@ -15,15 +15,22 @@ https://www.linkedin.com/in/kate-edwards-du/
 -----
 <!-- Navigation buttons -->
 <p align="center">
-  <a href="#-community-engagement-and-leadership">
-    <img src="https://img.shields.io/badge/Projects-View%20More-blue?style=for-the-badge" />
+  <a href="#communication-and-interpersonal-effectiveness">
+    <img src="https://img.shields.io/badge/Communication%20and%20Interpersonal%20Effectiveness-purple?style=for-the-badge" />
+  </a>
+  <a href="#community-engagement-and-leadership">
+    <img src="https://img.shields.io/badge/Community%20Engagement%20and%20Leadership-blue?style=for-the-badge" />
   </a>
   <a href="#ethical-decision-making">
-    <img src="https://img.shields.io/badge/Ethics-See%20List-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Ethical%20Decision%20Making-green?style=for-the-badge" />
   </a>
-  <a href="#-contact">
-    <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-orange?style=for-the-badge" />
+  <a href="#globalintercultural-competence">
+    <img src="https://img.shields.io/badge/Global%20Competence-pink?style=for-the-badge" />
   </a>
+  <a href="#technical-knowledge-and-critical-thinking">
+    <img src="https://img.shields.io/badge/Technical%20Knowledge-orange?style=for-the-badge" />
+  </a>
+
 </p>
 
 
