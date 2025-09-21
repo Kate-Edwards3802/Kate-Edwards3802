@@ -107,8 +107,8 @@ This paper required extensive research into previous papers written on similar s
 As a Freshman I had never heard of AI. By the time my Junior year ended AI had transformed education. Through my experience I found that AI can be incredibly helpful but also quite destructive. I’ve seen classmates paste an assignment description into AI and get the entire answer out. This skips all learning. The way I chose to use it was as an on demand TA. If I had a question about a topic I could ask AI. If I was still confused I could ask for a different style of explanation or for some examples. It was also very helpful when I went over tests. I would go through the questions I got wrong and ask AI why my answer was incorrect. Most of the time AI is great at both of these tasks. The problem with AI is sometimes it gets something wrong. It acted as a great starting point though. I could ask it the name of the topic it was explaining and look it up to confirm the information. 
 AI can also come up with solutions you didn’t know existed. For my nonparametric statistics class I had to turn data on a website into an Excel spreadsheet so I could easily analyze it. I asked AI what my options were besides copying the data into an Excel file by hand. It informed me that Python was capable of generating an Excel spreadsheet, which I didn’t know. This allowed me to simply copy paste the data into a Python script which then split the text based on tabs and gave me an Excel sheet as an output. This saved me countless hours of boring repetitive work. When AI is used as a tool to easily explain a concept or help you grasp something it can be useful. It’s also helpful when it shows you tools you didn’t know about. AI can be powerful as long as you don’t use it mindlessly.
 
-
-**Other ways I spent my time during college**
+-----
+## Other ways I spent my time during college
 | ![ConcertAtRedRocks](Concert.jpg) | ![MyFirst14er](First14er.jpg) |
 |:------------------------------------------:|:---------------------------------------:|
 | I got to experience Denver classics like seeing a concert at Red Rocks.      | I hiked my first 14er, Quandary Peak. |
