@@ -13,7 +13,19 @@ https://www.linkedin.com/in/kate-edwards-du/
 <br>katieedwards2828@gmail.com
 
 -----
-[Go to Communication and Interpersonal Effictiveness](#communication-and-interpersonal-effictiveness) | [Go to Community Engagement and Leadership](community-engagement-and-leadership)
+<!-- Navigation buttons -->
+<p align="center">
+  <a href="#-community-engagement-and-leadership">
+    <img src="https://img.shields.io/badge/Projects-View%20More-blue?style=for-the-badge" />
+  </a>
+  <a href="#-skills">
+    <img src="https://img.shields.io/badge/Skills-See%20List-green?style=for-the-badge" />
+  </a>
+  <a href="#-contact">
+    <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-orange?style=for-the-badge" />
+  </a>
+</p>
+
 
 
 ## Communication and interpersonal effectiveness
