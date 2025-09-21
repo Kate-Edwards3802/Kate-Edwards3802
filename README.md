@@ -18,8 +18,8 @@ https://www.linkedin.com/in/kate-edwards-du/
   <a href="#-community-engagement-and-leadership">
     <img src="https://img.shields.io/badge/Projects-View%20More-blue?style=for-the-badge" />
   </a>
-  <a href="#-skills">
-    <img src="https://img.shields.io/badge/Skills-See%20List-green?style=for-the-badge" />
+  <a href="#ethical-decision-making">
+    <img src="https://img.shields.io/badge/Ethics-See%20List-green?style=for-the-badge" />
   </a>
   <a href="#-contact">
     <img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-orange?style=for-the-badge" />
