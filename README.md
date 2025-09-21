@@ -39,25 +39,19 @@ https://www.linkedin.com/in/kate-edwards-du/
 ## Communication and interpersonal effectiveness
 **Case Competitions**
 <br>Over my time at DU I participated in 3 group case competitions and placed 3rd twice. My presentation skills grew immensely over this time. While crafting a solution to the problem was important it was also important to clearly, concisely, and persuasively present the solution. You had to clearly coordinate and communicate with your team members to ensure that their sections flowed smoothly into yours. I learned small things like to highlight the sections of a graph you are trying to draw attention to. I learned better passoffs between team members. Most importantly, I learned how to practice a presentation until I had the right points I wanted without memorizing a script. This enabled me to say everything I wanted while avoiding the pitfalls that come from memorizing a speech. While public speaking has always made me nervous, I feel much more confident after participating in these case competitions. The competitions increased the pressure because I knew there was money at stake and my teammates were relying on me. I learned to manage stress and to successfully present despite the additional nerves the setting brought up. Competing in these stressful settings has taught me to overcome my nervousness so I can present effectively.
-<div style="display: flex; gap: 20px; align-items: center;">
-  <figure>
-    <img src=""C:\Users\Kate\OneDrive - University of Denver\Senior\Distinction\Case Comp Presenting.jpg"" width="200">
-    <figcaption>Presenting during a case competetion.</figcaption>
-  </figure>
-  <figure>
-    <img src=""C:\Users\Kate\OneDrive - University of Denver\Senior\Distinction\Case Comp Check.jpg"" width="200">
-    <figcaption>Celebrating our success at a different case competetion!</figcaption>
-  </figure>
-</div>
-
-
-
-**Internship at Deloitte**
-<br>My internship this summer exposed me to typical corporate forms of communication. I sat in on small group planning meetings and saw how they were approached. I initiated agendas for these meetings to make sure everyone was able to cover the points they wanted to and nothing was forgotten. One of the things that struck me most about these meetings was how the first 5 minutes would typically be devoted to basic chit chat so that you truly felt like you were friends with your coworkers. This meant that disagreements were easier to resolve and no one felt afraid to bring up ideas or make mistakes in front of the team. I also attended and put together the slide deck for a 250+ person all hands meeting. While I was leading the icebreaker for this global meeting we weren’t getting many responses so I chose to ask a few specific colleagues about how the icebreaker applied in their part of the globe and got some interesting answers that sparked discussion. I also had many email chains with senior leadership as I was trying to collect information for a central proposal repository. From all of these email chains I learned how to match other people’s email styles. I also worked on being more concise in my emails. My communication grew a lot from this experience. I learned to overcommunicate rather than undercommunicate. It was helpful for me to give regular, unprompted updates on my progress to leadership. By having open, honest, and regular communication my colleagues were able to trust me.
+| ![Presenting](Case%20Comp%20Presenting.jpg) | ![Celebrating](Case%20Comp%20Check.jpg) |
+|:------------------------------------------:|:---------------------------------------:|
+| Presenting my slides during a case competition.      | Celebrating our success at another case competition. |
 
 **Lifeguarding**
 <br>Throughout parts of high school and college I worked in various lifeguarding roles. I started by lifeguarding at the public pool and was later asked if I wanted to get a separate open water certification as a lifeguard at our local lake. While working as a lifeguard it became evident quickly that everyone needed to work as a team. We would often have zones that would overlap and needed to communicate who would handle any arising issues. When there was an emergency situation we would need to quickly and clearly communicate what role we would play so that all necessary roles were covered and nothing was forgotten. When I transitioned to open water lifeguarding, I was sometimes on a floating obstacle course 100 meters from land. I could only communicate with other guards through the radio. This posed challenges as we were unable to read each other’s nonverbal cues and couldn’t tell if they had received our message. If communication wasn’t clear the system could fall apart. Lifeguarding was my introduction to working as part of a team and it quickly became clear that communication was critical to properly respond to high stress situations. 
 As a lifeguard I also worked with a co-instructor to teach children swimming. I taught everything from basic swimming skills to diving. Having been a competitive swimmer since middle school it took skill to be able to explain concepts that were second nature to me in a way that the kids could understand. I formed relationships and built trust with the kids I taught which was important. This trust helped earn me their respect. It was rewarding to see their skills grow and their character mature.
+
+**Internship at Deloitte**
+<br>My internship this summer exposed me to typical corporate forms of communication. I sat in on small group planning meetings and saw how they were approached. I initiated agendas for these meetings to make sure everyone was able to cover the points they wanted to and nothing was forgotten. One of the things that struck me most about these meetings was how the first 5 minutes would typically be devoted to basic chit chat so that you truly felt like you were friends with your coworkers. This meant that disagreements were easier to resolve and no one felt afraid to bring up ideas or make mistakes in front of the team. I also attended and put together the slide deck for a 250+ person all hands meeting. While I was leading the icebreaker for this global meeting we weren’t getting many responses so I chose to ask a few specific colleagues about how the icebreaker applied in their part of the globe and got some interesting answers that sparked discussion. I also had many email chains with senior leadership as I was trying to collect information for a central proposal repository. From all of these email chains I learned how to match other people’s email styles. I also worked on being more concise in my emails. My communication grew a lot from this experience. I learned to overcommunicate rather than undercommunicate. It was helpful for me to give regular, unprompted updates on my progress to leadership. By having open, honest, and regular communication my colleagues were able to trust me.
+| ![duSign](duSign.jpg) | ![DeloitteCommunityEvent](duCommuntyEvent.jpg) |
+|:------------------------------------------:|:---------------------------------------:|
+| I had the incredible opportunity to go to Deloitte University (also known as DU) during my internship.      | During my time at Deloitte University we painted skateboards to encourage increased attendance at a local school. |
 
 -----
 ## Community Engagement and Leadership
@@ -77,10 +71,19 @@ As a lifeguard I also worked with a co-instructor to teach children swimming. I 
 
 **Expanding my experience with diversity in college**
 <br>While the small town I grew up in had lots of diversity in some ways it also lacked some forms of diversity. I was exposed to very little racial diversity growing up and most everyone I met had been born in the US. When I moved up to DU I became friends with someone whose parents had immigrated from India after an arranged marriage. While this background was very different from mine I was honored to be welcomed by her family. Her mother took the time to teach me and some of our other friends how to cook Indian dishes. She even gifted us with some spices from her cabinet from India. When Ramadan came around  one of their family friends gave us Henna. Having her family be so kind and welcoming had a big impact on me. I was able to discuss with her parts of her background and what she agreed with and didn’t agree with which was deeply insightful for me. Being welcomed by her as well as other friends into their cultures helped me not only understand them better but also understand my view of the world better. Seeing the way others live their life and their values can help guide your own.
+| ![Cooking](Cooking.jpg) |
+|:------------------------------------------:|
+| My friends and I learning how to cook classic Indian dishes.      |
 
 **Study Abroad Experience in Oxford**
 <br>Between my Sophomore and Junior year I chose to spend the summer studying abroad at Oxford. Coming from a town where the nearest city with over 50,000 people was 3.5 hours away and in a different state to landing at London Heathrow, the main base for London, a city with 9 million, was intimidating to say the least. Add to that that I needed to use public transportation to reach Oxford, something that was virtually nonexistent in my home town, and I knew I would need to be adaptable. I came over time to be proficient enough at using public transportation that I used it to travel to Paris a week before the 2024 Olympics. I was able to adapt to the large cities that were conveniently located nearby. While I believe that adaptation to other cultures is important to keeping an open mind, one of the most interesting things about my time at Oxford was the teaching style.
 I had the full Oxford experience in that we were taught in small dialogue focused classrooms. My class was my Oxford professor as well as two other students. We would come to class having read the necessary material and with our basic thoughts and sometimes a presentation on the material and then we would spend class discussing. I learned that that method of teaching had been around for centuries. Getting to experience this different format of teaching had its benefits and drawbacks. At Oxford I learned a lot about the history of Great Britain and France which I was able to weave into the history that the US is based on as well. Being able to see how their culture had influenced the country in which I grew up and where we had strayed from their legal systems and government setup said a lot to me about the US.
+| ![MagdalenCollege](viewFromDorms.jpg) | ![Wales](Wales.JPG) |
+|:------------------------------------------:|:---------------------------------------:|
+| The view of Magdalen Tower from my dorm.      | Travelling across Wales for hands on learning as part of the program. |
+| ![Paris](Paris.jpg) | ![Bodleian](Bodleian.jpg) |
+| Travelling to Paris via public transport.      | Inside Duke Humfrey's Library in the Bodelian. This area was reserved for students only. |
+
 
 
 **Summer experience at Deloitte**
@@ -105,5 +108,15 @@ As a Freshman I had never heard of AI. By the time my Junior year ended AI had t
 AI can also come up with solutions you didn’t know existed. For my nonparametric statistics class I had to turn data on a website into an Excel spreadsheet so I could easily analyze it. I asked AI what my options were besides copying the data into an Excel file by hand. It informed me that Python was capable of generating an Excel spreadsheet, which I didn’t know. This allowed me to simply copy paste the data into a Python script which then split the text based on tabs and gave me an Excel sheet as an output. This saved me countless hours of boring repetitive work. When AI is used as a tool to easily explain a concept or help you grasp something it can be useful. It’s also helpful when it shows you tools you didn’t know about. AI can be powerful as long as you don’t use it mindlessly.
 
 
+**Other ways I spent my time during college**
+| ![ConcertAtRedRocks](Concert.jpg) | ![MyFirst14er](First14er.jpg) |
+|:------------------------------------------:|:---------------------------------------:|
+| I got to experience Denver classics like seeing a concert at Red Rocks.      | I hiked my first 14er, Quandary Peak. |
+| ![SkiingWithFriends](Skiing.JPG) | ![IceClimbingOnAGlacier](iceClimbing.jpg) |
+| I went skiing with friends.      | I managed my fear of heights to go ice climbing. |
+| ![Camping](Camping.JPG) | ![GreatSandDunes](greatSandDunes.JPG) |
+| I went camping with friends.      | My friends and I climbed up the Great Sand Dunes. |
+| ![Climbing](Climbing.jpg) | ![Castle](Castle.jpg) |
+| I started climbing.      | I visited a castle in Wales and got to see what we were learning about in person. |
 
 
