@@ -13,6 +13,8 @@ https://www.linkedin.com/in/kate-edwards-du/
 <br>katieedwards2828@gmail.com
 
 -----
+[Go to Communication and Interpersonal Effictiveness](#communication-and-interpersonal-effictiveness) | [Go to Community Engagement and Leadership](community-engagement-and-leadership)
+
 
 ## Communication and interpersonal effectiveness
 **Case Competitions**
