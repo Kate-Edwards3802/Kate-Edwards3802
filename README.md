@@ -39,10 +39,17 @@ https://www.linkedin.com/in/kate-edwards-du/
 ## Communication and interpersonal effectiveness
 **Case Competitions**
 <br>Over my time at DU I participated in 3 group case competitions and placed 3rd twice. My presentation skills grew immensely over this time. While crafting a solution to the problem was important it was also important to clearly, concisely, and persuasively present the solution. You had to clearly coordinate and communicate with your team members to ensure that their sections flowed smoothly into yours. I learned small things like to highlight the sections of a graph you are trying to draw attention to. I learned better passoffs between team members. Most importantly, I learned how to practice a presentation until I had the right points I wanted without memorizing a script. This enabled me to say everything I wanted while avoiding the pitfalls that come from memorizing a speech. While public speaking has always made me nervous, I feel much more confident after participating in these case competitions. The competitions increased the pressure because I knew there was money at stake and my teammates were relying on me. I learned to manage stress and to successfully present despite the additional nerves the setting brought up. Competing in these stressful settings has taught me to overcome my nervousness so I can present effectively.
-<figure>
-  <img src=""C:\Users\Kate\OneDrive - University of Denver\Senior\Distinction\Case Comp Presenting.jpg"" alt="Project Screenshot" width="400">
-  <figcaption>Me presenting during a case competition.</figcaption>
-</figure>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <figure>
+    <img src=""C:\Users\Kate\OneDrive - University of Denver\Senior\Distinction\Case Comp Presenting.jpg"" width="200">
+    <figcaption>Presenting during a case competetion.</figcaption>
+  </figure>
+  <figure>
+    <img src=""C:\Users\Kate\OneDrive - University of Denver\Senior\Distinction\Case Comp Check.jpg"" width="200">
+    <figcaption>Celebrating our success at a different case competetion!</figcaption>
+  </figure>
+</div>
+
 
 
 **Internship at Deloitte**
