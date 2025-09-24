@@ -9,7 +9,8 @@
 <br>Minor: Computer Science**
 
 ## Resume, Linkedin, Email
-https://www.linkedin.com/in/kate-edwards-du/
+[My Resume](9_24_Resume.pdf)
+<br>https://www.linkedin.com/in/kate-edwards-du/
 <br>katieedwards2828@gmail.com
 
 -----
